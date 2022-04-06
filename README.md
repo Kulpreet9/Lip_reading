@@ -75,3 +75,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py
 ## What's next for Visual Speech to Text 
 
 To make it a commericaly viable product we need to make some sort of IOT device or to make a system where it take feed from one's device ,pass it to cloud,do computation their and return the desired output as this software need high computation power 
+
+## Along with
+
+[@chiragarora01](https://github.com/chiragarora01)
