@@ -1,4 +1,4 @@
-# Lip Reading
+# Visual speech recognition
 
 
 
